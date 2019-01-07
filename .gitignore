@@ -8,8 +8,6 @@
 
 *.pbxproj
 
-xcuserdata/
+cpp/euler*/euler*.xcodeproj/
 
-project.xcworkspace/
-
-*.xcodeproj/
+cpp/euler*/.DS_Store
